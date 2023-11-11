@@ -1,7 +1,9 @@
 
 ## Hallo Leute👋
-<img src="https://github.com/leeseonggi/leeseonggi/assets/66366673/0553ab05-51e0-4f46-8240-022a1ef223cc" width="400" height="400">
-
+<br/>
+<div align="center">
+    <img src="https://github.com/leeseonggi/leeseonggi/assets/66366673/0553ab05-51e0-4f46-8240-022a1ef223cc" width="400" height="420">
+</div>
  <br/>
  <br/>
   
